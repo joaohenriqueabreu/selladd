@@ -1,3 +1,3 @@
 <?php 
-    include_once("page_coming_soon2.html");
+    include_once("landing.php");
 ?>
