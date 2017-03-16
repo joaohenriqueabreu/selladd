@@ -5,3 +5,85 @@
 .custom-color-white{
     color: white !important;
 }
+
+.custom-color-green{
+    color: rgb(0,255,168) !important;
+}
+
+.custom-bg-green{
+    background: rgb(0,255,168) !important;
+}
+
+.custom-color-dark-blue{
+    color: rgb(0, 32, 96) !important;
+}
+
+.custom-bg-dark-blue{
+    background: rgb(0, 32, 96) !important;
+}
+
+.custom-color-gray{
+    color: rgb(171, 171, 171) !important;
+}
+
+.custom-bg-gray{
+    background: rgb(171, 171, 171) !important;
+}
+
+.custom-section{
+    padding: 50px !important;
+}
+
+.custom-destaque{
+    border-width: thick !important;
+    border-color: rgb(0,255,168) !important;
+    border-radius: 50% !important;
+}
+
+.custom-background-1{
+    background: url(../img/blur/blur3.jpg) no-repeat 30% 30%;
+}
+
+.custom-background-2{
+    background: url(../img/blur/blur2.jpg) no-repeat 30% 30%;
+}
+
+.custom-hover-color-dark-blue{
+
+}
+
+.custom-hover-color-dark-blue:hover{
+    color: rgb(0, 32, 96) !important;
+}
+
+.custom-hover-bg-dark-blue{
+
+}
+
+.custom-hover-bg-dark-blue:hover{
+    background: rgb(0, 32, 96) !important;
+}
+
+.custom-hover-color-gray{
+
+}
+
+.custom-hover-color-gray:hover{
+    color: rgb(171,171,171) !important;
+}
+
+.custom-hover-bg-white{
+
+}
+
+.custom-hover-bg-white:hover{
+    background: white !important;
+}
+
+.custom-hover-color-white{
+
+}
+
+.custom-hover-color-white:hover{
+    color: white !important;
+}

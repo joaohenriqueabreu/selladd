@@ -1,3 +1,3 @@
 <?php 
-    include_once("landing.php");
+    include_once("master.php");
 ?>
