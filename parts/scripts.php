@@ -18,6 +18,8 @@
 <script src="assets/plugins/owl-carousel/owl-carousel/owl.carousel.js"></script>
 <script type="text/javascript" src="assets/js/plugins/owl-carousel.js"></script>
 
+<script src="assets/plugins/wow/dist/wow.min.js"></script>
+
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
@@ -36,6 +38,7 @@
     jQuery(document).ready(function () {
         App.init();
         OwlCarousel.initOwlCarousel();
+        new WOW().init();
 //        PageComingSoon.initPageComingSoon();
 
         $(".coming-soon-v2-left").backstretch([

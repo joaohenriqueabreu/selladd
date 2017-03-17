@@ -26,6 +26,10 @@
     background: white !important;
 }
 
+.custom-bg-ice{
+    background: rgb(200,200,200) !important;
+}
+
 .custom-color-gray{
     color: rgb(171, 171, 171) !important;
 }
@@ -39,6 +43,13 @@
     padding-bottom: 25px !important;
     padding-left: 25px !important;
     padding-right: 25px !important;
+}
+
+.custom-super-section{
+    padding-top: 150px !important;
+    padding-bottom: 150px !important;
+    padding-left: 150px !important;
+    padding-right: 150px !important;
 }
 
 .custom-destaque{
@@ -72,6 +83,18 @@
 .custom-background-3{
     /*background: url(../img/bg/bg9.png) no-repeat 30% 30%;*/
     background: url(../img/bg/bg9.png) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
+.custom-background-4{
+    background: url(../img/bg/bg10.png) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
+.custom-background-5{
+    background: url(../img/blur/blur9.jpg) no-repeat;
     background-size:     cover;
     background-position: center center;
 }
@@ -116,6 +139,21 @@
     color: white !important;
 }
 
+.custom-border-dark-blue {
+    border-color: rgb(0,32,96) !important;
+    border-width: 1px !important;
+    border: solid !important;
+}
+
+.custom-desc-image{
+    max-height: 150px !important;
+}
+
+.custom-desc-text{
+    width: 100% !important;
+    text-align: center !important;
+}
+
 .custom-padding-20{
     padding: 20px !important;
 }
@@ -132,4 +170,22 @@
 .custom-heading{
     font-size: 35px !important;
     line-height: 50px !important;
+}
+
+.custom-round{
+
+}
+
+.custom-fade-in-right{
+    /*padding: 70px 30px 60px 85px;*/
+    transition: all 0.3s ease-in-out;
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight;
+}
+
+.custom-fade-in-left{
+    /*padding: 70px 30px 60px 85px;*/
+    transition: all 0.3s ease-in-out;
+    -webkit-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
 }

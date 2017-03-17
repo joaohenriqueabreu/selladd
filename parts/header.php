@@ -8,14 +8,14 @@
 
         </div>
         <div flex layout="row" layout-align="end center" hide-xs hide-sm show-gt-sm>
-            <a href="#embaixador" layout-align="center center"
+            <a href="/embaixador" layout-align="center center"
                class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
                type="button">
                 <h3 class="custom-color-green custom-hover-color-gray"><strong>Quero montar meu
                         negócio</strong></h3>
             </a>
             &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="#fornecedor"
+            <a href="/fornecedor"
                class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
                type="button">
                 <h3 class="custom-color-green custom-hover-color-gray"><strong>Quero aumentar as
