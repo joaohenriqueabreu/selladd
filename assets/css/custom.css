@@ -22,6 +22,10 @@
     background: rgb(0, 32, 96) !important;
 }
 
+.custom-bg-white{
+    background: white !important;
+}
+
 .custom-color-gray{
     color: rgb(171, 171, 171) !important;
 }
@@ -41,6 +45,20 @@
     border-width: thick !important;
     border-color: rgb(0,255,168) !important;
     border-radius: 50% !important;
+}
+
+.custom-brand{
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(0,32,96) !important;
+    font-family: "Franklin Gothic Heavy";
+}
+
+.custom-brand:hover{
+    font-weight: bolder;
+    font-size: large;
+    color: rgb(0,32,96) !important;
+    text-decoration: none !important;
 }
 
 .custom-background-1{

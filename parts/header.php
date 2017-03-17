@@ -1,10 +1,11 @@
 <div class="header header-sticky custom-padding-20">
 <!--    <div layout="row" class="container collapse navbar-collapse mega-menu navbar-responsive-collapse">-->
     <div layout="row">
-        <div flex>
-            <a class="" href="/">
-                <img class="logo" src="assets/img/logo/logo-mini.png" alt="Logo">
+        <div flex layout="row">
+            <a class="custom-brand" href="/" layout="row" layout-align="center center">
+                <img class="logo" src="assets/img/logo/logo-mini.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>
             </a>
+
         </div>
         <div flex layout="row" layout-align="end center" hide-xs hide-sm show-gt-sm>
             <a href="#embaixador" layout-align="center center"

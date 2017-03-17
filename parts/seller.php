@@ -13,9 +13,9 @@
                 </strong>
             </h2>
             <a href="/parts/fornecedor.php"
-               class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-white custom-hover-color-gray btn-u-lg"
+               class="btn-u rounded-5x btn-u-custom-green custom-bg-white custom-color-gray custom-hover-bg-white custom-hover-color-gray btn-u-lg"
                type="button">
-                <h4 class="custom-color-green custom-hover-color-gray"><strong>Quero montar meu negócio</strong></h4>
+                <h4 class="custom-color-gray custom-hover-color-gray"><strong>Quero montar meu negócio</strong></h4>
             </a>
         </div>
     </div>
@@ -39,7 +39,7 @@
             </p>
 
             <a href="/parts/fornecedor.php"
-               class="btn-u btn-brd custom-color-green rounded-5x btn-u-custom-green custom-hover-bg-white custom-hover-color-gray btn-u-lg"
+               class="btn-u custom-bg-white custom-color-gray rounded-5x btn-u-custom-green custom-hover-bg-white custom-hover-color-gray btn-u-lg"
                type="button">
                 <strong>Eu quero!</strong>
             </a>
