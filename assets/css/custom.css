@@ -31,10 +31,10 @@
 }
 
 .custom-section{
-    padding-top: 50px !important;
-    padding-bottom: 50px !important;
-    padding-left: 50px !important;
-    padding-right: 50px !important;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
 }
 
 .custom-destaque{
@@ -49,6 +49,13 @@
 
 .custom-background-2{
     background: url(../img/blur/blur2.jpg) no-repeat 30% 30%;
+}
+
+.custom-background-3{
+    /*background: url(../img/bg/bg9.png) no-repeat 30% 30%;*/
+    background: url(../img/bg/bg9.png) no-repeat;
+    background-size:     cover;
+    background-position: center center;
 }
 
 .custom-hover-color-dark-blue{
@@ -93,4 +100,18 @@
 
 .custom-padding-20{
     padding: 20px !important;
+}
+
+.custom-padding-40{
+    padding: 40px !important;
+}
+
+.custom-mobile-padding-20{
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.custom-heading{
+    font-size: 35px !important;
+    line-height: 50px !important;
 }

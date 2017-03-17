@@ -26,5 +26,5 @@
                 </a>
             </div>
         </div>
-    </div><!--/copyright-->
+    </div>
 </div>

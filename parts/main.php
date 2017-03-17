@@ -1,34 +1,55 @@
-<!--<h1 style="color: white; margin: 20px 20px 20px 20px; text-align: center;" align="justify">-->
 <section id="main">
     <div class="custom-section custom-background-3" layout="row" layout-align="center center">
-        <div layout="column" layout-align="center center" class="custom-padding-20">
-            <h2 align="center">
-                <strong class="custom-color-dark-blue">
-<!--                <strong class="custom-color-white">-->
-                    <!--    <strong>-->
-                    Olá, somos a <span class="custom-color-green">VITRI</span><span
-                        class="custom-color-dark-blue">NET</span>.<br>
-                    Somos a maneira mais rápida e fácil de se abrir um negócio virtual. <br>
-                    E tudo isso gratuitamente!
-                    <!--            A plataforma de lojas virtuais que conecta pessoas que desejam <br>-->
-                    <!--            montar o seu próprio negócio-->
-                    <!--            de maneira-->
-                </strong>
-            </h2>
+        <div layout="column" layout-align="center center" class="custom-padding-20" hide-xs hide-sm show-gt-sm>
+            <div layout="row">
 
-            <!--        <h1 align="center"><strong>-->
+                <h2 align="center" class="custom-heading">
+                    <strong class="custom-color-dark-blue">
+                        Olá, somos a VITRINET <br>
+                        A maneira mais rápida e fácil <br>
+                        de se abrir um negócio virtual. <br>
+                        E de graça!
+                    </strong>
+                </h2>
+            </div>
+
             <div class="custom-padding-20">
                 <a href="#embaixador"
-                    class="btn-u btn-brd rounded-5x btn-u-custom-green
-                    custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
+                   class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-gray btn-u-lg"
                    type="button">
-                    <!--                <h3 class="custom-color-green custom-hover-color-gray"><strong>SIMPLES, RÁPIDA E GRATUITA</strong></h3>-->
                     <h4 class="custom-color-gray custom-hover-color-gray"><strong>Quero montar meu negócio</strong>
                     </h4>
                 </a>
                 </strong>
             </div>
-            <!--        </h1>-->
         </div>
     </div>
+
+    <div class="custom-background-3" layout="column" layout-align="center center" show-xs show-sm hide-gt-sm>
+        <div layout="row">
+            <h4 align="center" class="">
+                <strong class="custom-color-dark-blue">
+                    Olá, somos a VITRINET <br>
+                    A maneira mais rápida e fácil <br>
+                    de se abrir um negócio virtual. <br>
+                    E de graça!
+                </strong>
+            </h4>
+        </div>
+
+        <div class="custom-mobile-padding-20">
+            <a href="#embaixador"
+               class="btn-u rounded-5x btn-u-custom-green custom-color-gray custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-gray btn-u-lg"
+               type="button">
+                <strong>Eu quero!</strong>
+            </a>
+            </strong>
+        </div>
+
+    </div>
+
+
+
 </section>
+
+

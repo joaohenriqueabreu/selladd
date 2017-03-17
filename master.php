@@ -31,7 +31,8 @@
     <?php include_once('parts/header.php') ?>
 
 <!--    <div class="coming-soon-v2" style="margin-top: 100px;">-->
-    <div class="" style="margin-top: 100px;">
+<!--    <div class="" style="margin-top: 100px;">-->
+    <div class="" style="">
 
         <?php include_once('parts/main.php') ?>
 
