@@ -1,3 +1,5 @@
+<?php $route="/fornecedor" ?>
+
 <section id="fornecedor">
     <div hide-xs hide-sm show-gt-sm>
         <div class="custom-bg-green custom-section" layout="column" layout-align="center center">
@@ -20,7 +22,7 @@
                     </strong>
                 </h2>
 
-                <a href=""
+                <a href="<?php echo $route ?>"
                    class="btn-u custom-bg-green rounded-5x btn-u-custom-green custom-hover-bg-green custom-hover-color-dark-blue btn-u-lg"
                    type="button">
                     <h4 class="custom-color-dark-blue custom-hover-color-dark-blue"><strong>Quero aumentar as vendas</strong>
@@ -57,7 +59,7 @@
                     </strong>
                 </h4>
 
-                <a href=""
+                <a href="<?php echo $route ?>"
                    class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
                    type="button">
                     <h4 class="custom-color-green custom-hover-color-gray"><strong>Eu quero!</strong>

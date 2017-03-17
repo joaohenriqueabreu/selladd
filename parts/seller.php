@@ -1,3 +1,4 @@
+<?php $route="/embaixador" ?>
 <section id="embaixador">
     <div hide-xs hide-sm show-gt-sm class="custom-bg-dark-blue custom-section" layout-gt-sm="row" layout-xs="column"
          layout-sm="column" layout-align-xs="center center" layout-align-sm="center center">
@@ -12,7 +13,7 @@
                     Você não sabe muito bem por onde começar? <br><br> Nós podemos te ajudar. <br><br>
                 </strong>
             </h2>
-            <a href="/parts/fornecedor.php"
+            <a href="<?php echo $route ?>"
                class="btn-u rounded-5x btn-u-custom-green custom-bg-white custom-color-gray custom-hover-bg-white custom-hover-color-gray btn-u-lg"
                type="button">
                 <h4 class="custom-color-gray custom-hover-color-gray"><strong>Quero montar meu negócio</strong></h4>
@@ -38,7 +39,7 @@
                 </strong>
             </p>
 
-            <a href="/parts/fornecedor.php"
+            <a href="<?php echo $route ?>"
                class="btn-u custom-bg-white custom-color-gray rounded-5x btn-u-custom-green custom-hover-bg-white custom-hover-color-gray btn-u-lg"
                type="button">
                 <strong>Eu quero!</strong>
