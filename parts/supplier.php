@@ -22,7 +22,7 @@
                 <a href=""
                    class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
                    type="button">
-                    <h4 class="custom-color-green custom-hover-color-gray"><strong>Quero aumentar minhas vendas</strong>
+                    <h4 class="custom-color-green custom-hover-color-gray"><strong>Quero aumentar as vendas</strong>
                     </h4>
                 </a>
 
