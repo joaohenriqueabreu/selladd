@@ -173,8 +173,8 @@ body.header-fixed-space-default {
 	max-width: 50px !important;
 	display: table-cell;
 	vertical-align: middle;
-	margin: 20px !important;
-	margin-left: 50px !important;
+	/*margin: 10px !important;*/
+	/*margin-left: 50px !important;*/
 }
 
 .header .logo img {

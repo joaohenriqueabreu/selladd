@@ -31,7 +31,10 @@
 }
 
 .custom-section{
-    padding: 50px !important;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
 }
 
 .custom-destaque{
@@ -86,4 +89,8 @@
 
 .custom-hover-color-white:hover{
     color: white !important;
+}
+
+.custom-padding-20{
+    padding: 20px !important;
 }

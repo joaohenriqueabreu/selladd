@@ -22,16 +22,16 @@
 </head>
 
 <!--<body ng-cloak>-->
-<body class="header-fixed header-fixed-space-default" ng-cloak>
+<!--<body class="header-fixed header-fixed-space-default" ng-cloak>-->
+<body class="header-fixed header-fixed-space-default">
 
 <div class="wrapper" ng-controller="landing">
 
     <!--    Cabeçalho -->
     <?php include_once('parts/header.php') ?>
 
-    <!--    <div class="container coming-soon-v2" style="margin-top: 100px;">-->
-    <div class="coming-soon-v2" style="margin-top: 100px;">
-
+<!--    <div class="coming-soon-v2" style="margin-top: 100px;">-->
+    <div class="" style="margin-top: 100px;">
 
         <?php include_once('parts/main.php') ?>
 
