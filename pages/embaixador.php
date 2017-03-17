@@ -36,6 +36,7 @@
         <?php include_once('pages/embaixador/howitworks.php') ?>
         <?php include_once('pages/embaixador/register.php') ?>
         <?php include_once('pages/embaixador/franchising.php') ?>
+        <?php include_once('pages/embaixador/register2.php') ?>
 
     </div>
 

@@ -27,7 +27,7 @@
 }
 
 .custom-bg-ice{
-    background: rgb(200,200,200) !important;
+    background: rgb(240,240,255) !important;
 }
 
 .custom-color-gray{
@@ -36,6 +36,10 @@
 
 .custom-bg-gray{
     background: rgb(171, 171, 171) !important;
+}
+
+.custom-bg-black{
+    background: black !important;
 }
 
 .custom-section{
@@ -95,6 +99,12 @@
 
 .custom-background-5{
     background: url(../img/blur/blur9.jpg) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
+.custom-background-6{
+    background: url(../img/blur/blur7.jpg) no-repeat;
     background-size:     cover;
     background-position: center center;
 }

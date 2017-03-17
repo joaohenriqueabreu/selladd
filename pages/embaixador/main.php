@@ -5,7 +5,7 @@
 
                 <h2 align="center" class="custom-heading">
                     <strong class="custom-color-dark-blue">
-                        Obtenha renda extra e melhore sua vida!
+                        Obtenha renda extra com a VITRINET!
                     </strong>
                 </h2>
             </div>
