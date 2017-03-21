@@ -3,7 +3,8 @@
     <div layout="row">
         <div flex layout="row">
             <a class="custom-brand" href="/" layout="row" layout-align="center center">
-                <img class="logo" src="assets/img/logo/logo-mini.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>
+<!--                <img class="logo" src="assets/img/logo/logo-mini.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>-->
+                <img class="logo" src="assets/img/icons/cube.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>
             </a>
 
         </div>
@@ -15,7 +16,7 @@
                         negócio</strong></h3>
             </a>
             &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="/fornecedor"
+            <a href="/parceiro"
                class="btn-u btn-brd rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-hover-color-gray btn-u-lg"
                type="button">
                 <h3 class="custom-color-green custom-hover-color-gray"><strong>Quero aumentar as

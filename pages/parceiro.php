@@ -6,7 +6,7 @@
 <!--[if !IE]><!-->
 <html lang="en" ng-app="selladd"> <!--<![endif]-->
 <head>
-    <title>Selladd</title>
+    <title>Vitrinet</title>
 
     <!-- Meta -->
     <?php include_once('parts/meta.php') ?>
@@ -31,11 +31,12 @@
     <!--    <div class="" style="margin-top: 100px;">-->
     <div class="" style="">
 
-        <?php include_once('parts/main.php') ?>
-
-        <?php include_once('parts/seller.php') ?>
-
-        <?php include_once('parts/supplier.php') ?>
+        <?php include_once('pages/parceiro/main.php') ?>
+        <?php include_once('pages/parceiro/message.php') ?>
+        <?php include_once('pages/parceiro/howitworks.php') ?>
+        <?php include_once('pages/parceiro/register.php') ?>
+        <?php include_once('pages/parceiro/franchising.php') ?>
+        <?php include_once('pages/parceiro/register2.php') ?>
 
     </div>
 

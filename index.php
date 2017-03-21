@@ -40,11 +40,11 @@
 //                include_once('pages/embaixador.php');
 //            break;
 //
-//        case 'fornecedor':
+//        case 'parceiro':
 //            if(array_key_exists(1, $path_info['call_parts']))
-//                include_once('forms/fornecedor.php');
+//                include_once('forms/parceiro.php');
 //            else
-//                include_once('pages/fornecedor.php');
+//                include_once('pages/parceiro.php');
 //            break;
 //
 //        default:
@@ -57,16 +57,16 @@
             include_once('pages/embaixador.php');
             break;
 
-        case 'fornecedor':
-            include_once('pages/fornecedor.php');
+        case 'parceiro':
+            include_once('pages/parceiro.php');
             break;
 
         case 'novo-embaixador':
             include_once('forms/embaixador.php');
             break;
 
-        case 'novo-fornecedor':
-            include_once('forms/fornecedor.php');
+        case 'novo-parceiro':
+            include_once('forms/parceiro.php');
             break;
 
         default:

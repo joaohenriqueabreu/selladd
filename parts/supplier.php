@@ -1,6 +1,6 @@
-<?php $route="/fornecedor" ?>
+<?php $route="/parceiro" ?>
 
-<section id="fornecedor">
+<section id="parceiro">
     <div hide-xs hide-sm show-gt-sm>
         <div class="custom-bg-green custom-section" layout="column" layout-align="center center">
             <h1 class="custom-color-dark-blue" align="center"><strong>Você é fabricante ou dono de uma loja?</strong>

@@ -31,12 +31,11 @@
     <!--    <div class="" style="margin-top: 100px;">-->
     <div class="" style="">
 
-        <?php include_once('pages/embaixador/main.php') ?>
-        <?php include_once('pages/embaixador/message.php') ?>
-        <?php include_once('pages/embaixador/howitworks.php') ?>
-        <?php include_once('pages/embaixador/register.php') ?>
-        <?php include_once('pages/embaixador/franchising.php') ?>
-        <?php include_once('pages/embaixador/register2.php') ?>
+        <iframe
+            src="https://docs.google.com/forms/d/e/1FAIpQLScVYlLKkdshbajyySCpqX_5bWOCwdhCirHCEKD8Qu1Qq0SnOA/viewform?embedded=true"
+            width="100%" height="1000px;" frameborder="0" marginheight="0" marginwidth="0">Carregando…
+        </iframe>
+
 
     </div>
 

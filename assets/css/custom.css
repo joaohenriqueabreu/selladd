@@ -14,6 +14,26 @@
     background: rgb(0,255,168) !important;
 }
 
+.custom-bg-green-1{
+    background: rgb(0,255,158) !important;
+}
+
+.custom-bg-green-2{
+    background: rgb(0,255,148) !important;
+}
+
+.custom-bg-green-3{
+    background: rgb(0,255,138) !important;
+}
+
+.custom-bg-green-4{
+    background: rgb(0,255,128) !important;
+}
+
+.custom-bg-green-5{
+    background: rgb(0,255,118) !important;
+}
+
 .custom-color-dark-blue{
     color: rgb(0, 32, 96) !important;
 }
@@ -28,6 +48,10 @@
 
 .custom-bg-ice{
     background: rgb(240,240,255) !important;
+}
+
+.custom-bg-grice{
+    background: rgb(240,255,240) !important;
 }
 
 .custom-color-gray{
@@ -104,10 +128,29 @@
 }
 
 .custom-background-6{
-    background: url(../img/blur/blur7.jpg) no-repeat;
+    background: url(../img/blur/blur11.png) no-repeat;
     background-size:     cover;
     background-position: center center;
 }
+
+.custom-background-7{
+    background: url(../img/bg/bg13.png) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
+.custom-background-8{
+    background: url(../img/blur/blur11.jpg) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
+.custom-background-9{
+    background: url(../img/blur/blur13.png) no-repeat;
+    background-size:     cover;
+    background-position: center center;
+}
+
 
 .custom-hover-color-dark-blue{
 
@@ -123,6 +166,15 @@
 
 .custom-hover-bg-dark-blue:hover{
     background: rgb(0, 32, 96) !important;
+}
+
+.custom-hover-bg-green{
+
+}
+
+.custom-hover-bg-green:hover{
+    background: rgb(0, 255, 168) !important;
+    border-color: rgb(0, 255, 168) !important;
 }
 
 .custom-hover-color-gray{
@@ -151,6 +203,18 @@
 
 .custom-border-dark-blue {
     border-color: rgb(0,32,96) !important;
+    border-width: 1px !important;
+    border: solid !important;
+}
+
+.custom-border-green {
+    border-color: rgb(0,255, 168) !important;
+    border-width: 1px !important;
+    border: solid !important;
+}
+
+.custom-border-gray {
+    border-color: rgb(171, 171, 171) !important;
     border-width: 1px !important;
     border: solid !important;
 }
