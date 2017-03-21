@@ -12,6 +12,7 @@
     <?php include_once('parts/meta.php') ?>
 
     <!-- Favicon -->
+    <link rel="shortcut icon" href="../assets/img/logo/logo3.png">
     <link rel="shortcut icon" href="logo-mini.png">
 
     <?php include_once('parts/styles.php') ?>
