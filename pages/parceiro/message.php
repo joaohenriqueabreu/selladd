@@ -6,8 +6,10 @@
             <!--        estoques extras ou gastos com marketing. Você só terá custos associados às vendas que forem de fato concretizadas-->
 
 
-            <strong>Na VITRINET diversas pessoas podem vender produtos <span class="custom-color-white">online</span>
-                para seus contatos. <br><br>
+
+
+            <strong>Na Vitrinet seus produtos serão ofertados para potenciais clientes em todo o país através de uma rede de vendedores virtuais independentes
+                <br><br>
                 Sem investimento em um exército de vendas, sem ter que aumentar seu escritorio, <br>aluguel, mais
                 contas, sem ter que cuidar de tudo sozinho! <br><br>
 

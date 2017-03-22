@@ -2,8 +2,15 @@
     <div hide-xs hide-sm show-gt-sm layout="column" class="custom-super-section custom-bg-ice">
 
         <div layout="row" layout-align="center center">
+            <img class="custom-mini-image" src="../../assets/img/icons/settings.png"> &nbsp;&nbsp;&nbsp;&nbsp;
             <h1 class="custom-color-dark-blue"><strong>Como funciona</strong></h1>
         </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+
 
         <div layout="row" class="wow fadeInRight custom-fade-in-right animated" data-wow-offset="20"
              data-wow-duration="1.75s">

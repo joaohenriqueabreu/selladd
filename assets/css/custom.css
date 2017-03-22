@@ -21,31 +21,79 @@
 }
 
 .custom-bg-green-1 {
-    background: rgb(0, 255, 158) !important;
+    background: rgba(0, 255, 168, 0.85) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.85 !important;*/
 }
 
 .custom-bg-green-2 {
-    background: rgb(0, 255, 148) !important;
+    background: rgba(0, 255, 168, 0.7) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.7 !important;*/
 }
 
 .custom-bg-green-3 {
-    background: rgb(0, 255, 138) !important;
+    background: rgba(0, 255, 168, 0.55) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.55 !important;*/
 }
 
 .custom-bg-green-4 {
-    background: rgb(0, 255, 128) !important;
+    /*background: var(--brand-green) !important;*/
+    background: rgba(0, 255, 168, 0.4) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.4 !important;*/
 }
 
 .custom-bg-green-5 {
-    background: rgb(0, 255, 118) !important;
+    /*background: var(--brand-green) !important;*/
+    background: rgba(0, 255, 168, 0.25) !important;
+    color: var(--brand-blue) !important;
+    opacity: 0.25 !important;
 }
 
 .custom-color-dark-blue {
     color: var(--brand-blue) !important;
+    /*opacity: 1 !important;*/
 }
 
 .custom-bg-dark-blue {
     background: var(--brand-blue) !important;
+}
+
+.custom-bg-dark-blue-1 {
+    /*background: var(--brand-blue) !important;*/
+    background: rgba(0, 32, 96, 0.85) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.85 !important;*/
+}
+
+.custom-bg-dark-blue-2 {
+    /*background: var(--brand-blue) !important;*/
+    background: rgba(0, 32, 96, 0.7) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.7 !important;*/
+}
+
+.custom-bg-dark-blue-3 {
+    /*background: var(--brand-blue) !important;*/
+    background: rgba(0, 32, 96, 0.55) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.55 !important;*/
+}
+
+.custom-bg-dark-blue-4 {
+    /*background: var(--brand-blue) !important;*/
+    background: rgba(0, 32, 96, 0.4) !important;
+    color: var(--brand-blue) !important;
+    /*opacity: 0.4 !important;*/
+}
+
+.custom-bg-dark-blue-5 {
+    /*background: var(--brand-blue) !important;*/
+    background: rgba(0, 32, 96, 0.85) !important;
+    color: var(--brand-blue) !important;
+    opacity: 0.25 !important;
 }
 
 .custom-bg-white {
@@ -140,7 +188,7 @@
 }
 
 .custom-background-7 {
-    background: url(../img/bg/bg13.png) no-repeat;
+    background: url(../img/bg/bg12.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -235,6 +283,15 @@
 
 .custom-desc-image {
     max-height: 150px !important;
+}
+
+.custom-mini-image{
+    max-width: 100px !important;
+}
+
+.custom-data-text{
+    text-align: center;
+    max-width: 200px !important;
 }
 
 .custom-desc-text {

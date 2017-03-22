@@ -2,10 +2,13 @@
 
 <section id="parceiro">
     <div hide-xs hide-sm show-gt-sm>
-        <div class="custom-bg-green custom-section" layout="column" layout-align="center center">
-            <h1 class="custom-color-white" align="center"><strong>Você é fabricante ou dono de uma loja?</strong>
+        <div class="custom-bg-green custom-section" layout="row" layout-align="center center">
+            <img class="custom-mini-image" src="../assets/img/icons/pointing-right.png"> &nbsp;
+            <h1 class="custom-color-white custom-padding-20" align="center"><strong>Você é fabricante ou dono de uma loja?</strong>
             </h1>
         </div>
+
+
         <div class="equal-height-columns custom-super-section" layout-gt-sm="row" layout-xs="column"
              layout-sm="column" layout-align-xs="center center" layout-align-sm="center center">
             <div flex="70" layout="column" layout-align="center center">
@@ -38,6 +41,7 @@
 
     <div show-xs show-sm hide-gt-sm layout="column">
         <div class="custom-bg-green custom-section" layout="column" layout-align="center center">
+            <img
             <h4 class="custom-color-dark-blue" align="center"><strong>Você é fabricante ou dono de uma loja?</strong>
             </h4>
         </div>
