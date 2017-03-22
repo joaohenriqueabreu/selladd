@@ -6,7 +6,7 @@
             <h1 class="custom-color-dark-blue" align="center"><strong>Você é fabricante ou dono de uma loja?</strong>
             </h1>
         </div>
-        <div class="equal-height-columns custom-section" layout-gt-sm="row" layout-xs="column"
+        <div class="equal-height-columns custom-super-section" layout-gt-sm="row" layout-xs="column"
              layout-sm="column" layout-align-xs="center center" layout-align-sm="center center">
             <div flex="70" layout="column" layout-align="center center">
                 <h2 class="custom-color-dark-blue custom-padding-20"><strong>

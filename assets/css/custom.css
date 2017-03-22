@@ -1,214 +1,219 @@
-.custom-contact{
+:root {
+    --brand-green: rgb(115, 198, 164);
+    --brand-blue: rgb(0, 32, 98);
+    --brand-gray: rgb(171, 171, 171);
+}
+
+.custom-contact {
     background: #f2f2f2 !important;
 }
 
-.custom-color-white{
+.custom-color-white {
     color: white !important;
 }
 
-.custom-color-green{
-    color: rgb(0,255,168) !important;
+.custom-color-green {
+    color: var(--brand-green) !important;
 }
 
-.custom-bg-green{
-    background: rgb(0,255,168) !important;
+.custom-bg-green {
+    background: var(--brand-green) !important;
 }
 
-.custom-bg-green-1{
-    background: rgb(0,255,158) !important;
+.custom-bg-green-1 {
+    background: rgb(0, 255, 158) !important;
 }
 
-.custom-bg-green-2{
-    background: rgb(0,255,148) !important;
+.custom-bg-green-2 {
+    background: rgb(0, 255, 148) !important;
 }
 
-.custom-bg-green-3{
-    background: rgb(0,255,138) !important;
+.custom-bg-green-3 {
+    background: rgb(0, 255, 138) !important;
 }
 
-.custom-bg-green-4{
-    background: rgb(0,255,128) !important;
+.custom-bg-green-4 {
+    background: rgb(0, 255, 128) !important;
 }
 
-.custom-bg-green-5{
-    background: rgb(0,255,118) !important;
+.custom-bg-green-5 {
+    background: rgb(0, 255, 118) !important;
 }
 
-.custom-color-dark-blue{
-    color: rgb(0, 32, 96) !important;
+.custom-color-dark-blue {
+    color: var(--brand-blue) !important;
 }
 
-.custom-bg-dark-blue{
-    background: rgb(0, 32, 96) !important;
+.custom-bg-dark-blue {
+    background: var(--brand-blue) !important;
 }
 
-.custom-bg-white{
+.custom-bg-white {
     background: white !important;
 }
 
-.custom-bg-ice{
-    background: rgb(240,240,255) !important;
+.custom-bg-ice {
+    background: rgb(240, 240, 255) !important;
 }
 
-.custom-bg-grice{
-    background: rgb(240,255,240) !important;
+.custom-bg-grice {
+    background: rgb(240, 255, 240) !important;
 }
 
-.custom-color-gray{
+.custom-color-gray {
     color: rgb(171, 171, 171) !important;
 }
 
-.custom-bg-gray{
+.custom-bg-gray {
     background: rgb(171, 171, 171) !important;
 }
 
-.custom-bg-black{
+.custom-bg-black {
     background: black !important;
 }
 
-.custom-section{
+.custom-section {
     padding-top: 25px !important;
     padding-bottom: 25px !important;
     padding-left: 25px !important;
     padding-right: 25px !important;
 }
 
-.custom-super-section{
+.custom-super-section {
     padding-top: 150px !important;
     padding-bottom: 150px !important;
     padding-left: 150px !important;
     padding-right: 150px !important;
 }
 
-.custom-destaque{
+.custom-destaque {
     border-width: thick !important;
-    border-color: rgb(0,255,168) !important;
+    border-color: var(--brand-green) !important;
     border-radius: 50% !important;
 }
 
-.custom-brand{
+.custom-brand {
     font-weight: bolder;
-    font-size: large;
-    color: rgb(0,32,96) !important;
+    font-size: xx-large;
+    color: var(--brand-blue) !important;
     font-family: "Franklin Gothic Heavy";
 }
 
-.custom-brand:hover{
-    font-weight: bolder;
-    font-size: large;
-    color: rgb(0,32,96) !important;
+.custom-brand:hover {
+    /*font-weight: bolder;*/
+    /*font-size: xx-large;*/
+    /*color: var(--brand-blue) !important;*/
     text-decoration: none !important;
 }
 
-.custom-background-1{
+.custom-background-1 {
     background: url(../img/blur/blur3.jpg) no-repeat 30% 30%;
 }
 
-.custom-background-2{
+.custom-background-2 {
     background: url(../img/blur/blur2.jpg) no-repeat 30% 30%;
 }
 
-.custom-background-3{
+.custom-background-3 {
     /*background: url(../img/bg/bg9.png) no-repeat 30% 30%;*/
     background: url(../img/bg/bg9.png) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-4{
+.custom-background-4 {
     background: url(../img/bg/bg10.png) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-5{
+.custom-background-5 {
     background: url(../img/blur/blur9.jpg) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-6{
+.custom-background-6 {
     background: url(../img/blur/blur11.png) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-7{
+.custom-background-7 {
     background: url(../img/bg/bg13.png) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-8{
+.custom-background-8 {
     background: url(../img/blur/blur11.jpg) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-.custom-background-9{
+.custom-background-9 {
     background: url(../img/blur/blur13.png) no-repeat;
-    background-size:     cover;
+    background-size: cover;
     background-position: center center;
 }
 
-
-.custom-hover-color-dark-blue{
-
-}
-
-.custom-hover-color-dark-blue:hover{
-    color: rgb(0, 32, 96) !important;
-}
-
-.custom-hover-bg-dark-blue{
+.custom-hover-color-dark-blue {
 
 }
 
-.custom-hover-bg-dark-blue:hover{
-    background: rgb(0, 32, 96) !important;
+.custom-hover-color-dark-blue:hover {
+    color: var(--brand-blue) !important;
 }
 
-.custom-hover-bg-green{
-
-}
-
-.custom-hover-bg-green:hover{
-    background: rgb(0, 255, 168) !important;
-    border-color: rgb(0, 255, 168) !important;
-}
-
-.custom-hover-color-gray{
+.custom-hover-bg-dark-blue {
 
 }
 
-.custom-hover-color-gray:hover{
-    color: rgb(171,171,171) !important;
+.custom-hover-bg-dark-blue:hover {
+    background: var(--brand-blue) !important;
 }
 
-.custom-hover-bg-white{
+.custom-hover-bg-green {
 
 }
 
-.custom-hover-bg-white:hover{
+.custom-hover-bg-green:hover {
+    background: var(--brand-green) !important;
+    border-color: var(--brand-green) !important;
+}
+
+.custom-hover-color-gray {
+
+}
+
+.custom-hover-color-gray:hover {
+    color: rgb(171, 171, 171) !important;
+}
+
+.custom-hover-bg-white {
+
+}
+
+.custom-hover-bg-white:hover {
     background: white !important;
 }
 
-.custom-hover-color-white{
+.custom-hover-color-white {
 
 }
 
-.custom-hover-color-white:hover{
+.custom-hover-color-white:hover {
     color: white !important;
 }
 
 .custom-border-dark-blue {
-    border-color: rgb(0,32,96) !important;
+    border-color: var(--brand-blue) !important;
     border-width: 1px !important;
     border: solid !important;
 }
 
 .custom-border-green {
-    border-color: rgb(0,255, 168) !important;
+    border-color: var(--brand-green) !important;
     border-width: 1px !important;
     border: solid !important;
 }
@@ -219,45 +224,45 @@
     border: solid !important;
 }
 
-.custom-desc-image{
+.custom-desc-image {
     max-height: 150px !important;
 }
 
-.custom-desc-text{
+.custom-desc-text {
     width: 100% !important;
     text-align: center !important;
 }
 
-.custom-padding-20{
+.custom-padding-20 {
     padding: 20px !important;
 }
 
-.custom-padding-40{
+.custom-padding-40 {
     padding: 40px !important;
 }
 
-.custom-mobile-padding-20{
+.custom-mobile-padding-20 {
     padding-top: 20px !important;
     padding-bottom: 20px !important;
 }
 
-.custom-heading{
+.custom-heading {
     font-size: 35px !important;
     line-height: 50px !important;
 }
 
-.custom-round{
+.custom-round {
 
 }
 
-.custom-fade-in-right{
+.custom-fade-in-right {
     /*padding: 70px 30px 60px 85px;*/
     transition: all 0.3s ease-in-out;
     -webkit-animation-name: fadeInRight;
     animation-name: fadeInRight;
 }
 
-.custom-fade-in-left{
+.custom-fade-in-left {
     /*padding: 70px 30px 60px 85px;*/
     transition: all 0.3s ease-in-out;
     -webkit-animation-name: fadeInLeft;

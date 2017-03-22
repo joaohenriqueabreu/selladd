@@ -1,5 +1,5 @@
 <section id="main">
-    <div class="custom-section custom-background-3" layout="row" layout-align="center center">
+    <div class="custom-super-section custom-background-3" layout="row" layout-align="center center">
         <div layout="column" layout-align="center center" class="custom-padding-20" hide-xs hide-sm show-gt-sm>
             <div layout="row">
 

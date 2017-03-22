@@ -1,6 +1,6 @@
 <?php $route="/embaixador" ?>
 <section id="embaixador">
-    <div hide-xs hide-sm show-gt-sm class="custom-bg-dark-blue custom-section" layout-gt-sm="row" layout-xs="column"
+    <div hide-xs hide-sm show-gt-sm class="custom-bg-dark-blue custom-super-section" layout-gt-sm="row" layout-xs="column"
          layout-sm="column" layout-align-xs="center center" layout-align-sm="center center">
         <div flex="30" layout="center center" layout-align="center center" class="custom-padding-40">
 <!--            <i class="custom-color-white icon-5x icon-line icon-rocket"></i>-->
