@@ -14,9 +14,9 @@
                 </strong>
             </h2>
             <a href="<?php echo $route ?>"
-               class="btn-u rounded-5x btn-u-custom-green custom-bg-white custom-color-gray custom-hover-bg-white custom-hover-color-gray btn-u-lg"
+               class="btn-u rounded-5x btn-u-custom-green custom-bg-white custom-color-gray custom-padding-20 custom-hover-bg-white custom-hover-color-dark-blue btn-u-lg custom-header-text"
                type="button">
-                <h4 class="custom-color-gray custom-hover-color-gray"><strong>Quero montar meu negócio</strong></h4>
+                <strong>Quero montar meu negócio</strong>
             </a>
         </div>
     </div>

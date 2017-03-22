@@ -12,12 +12,10 @@
 
             <div class="custom-padding-20" style="padding-bottom: 150px !important">
                 <a href="#o-que-e"
-                   class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-gray btn-u-lg"
+                   class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-white btn-u-lg custom-header-text"
                    type="button">
-                    <h4 class="custom-color-white custom-hover-color-gray"><strong>Vamos lá!</strong>
-                    </h4>
+                    <strong>Vamos lá!</strong>
                 </a>
-                </strong>
             </div>
         </div>
     </div>

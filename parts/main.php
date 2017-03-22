@@ -15,12 +15,10 @@
 
             <div class="custom-padding-20">
                 <a href="#embaixador"
-                   class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-gray btn-u-lg"
+                   class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-dark-blue custom-bg-dark-blue custom-color-white custom-padding-20 custom-hover-color-white btn-u-lg custom-header-text"
                    type="button">
-                    <h4 class="custom-color-gray custom-hover-color-gray"><strong>Quero montar meu negócio</strong>
-                    </h4>
+                    <strong>Quero montar meu negócio</strong>
                 </a>
-                </strong>
             </div>
         </div>
     </div>

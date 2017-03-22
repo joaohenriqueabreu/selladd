@@ -579,7 +579,7 @@ h3.heading-xs {
 	font-weight: 400;
 	padding: 6px 13px;
 	position: relative;
-	background: rgb(0,255,168);
+	/*background: rgb(0,255,168);*/
 	white-space: nowrap;
 	display: inline-block;
 	text-decoration: none;

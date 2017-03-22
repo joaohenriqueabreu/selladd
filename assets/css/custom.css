@@ -198,12 +198,21 @@
     background: white !important;
 }
 
+.custom-hover-bg-gray{
+
+}
+
+.custom-hover-bg-gray:hover {
+    background: var(--brand-gray) !important;
+}
+
 .custom-hover-color-white {
 
 }
 
 .custom-hover-color-white:hover {
     color: white !important;
+    text-decoration: none !important;
 }
 
 .custom-border-dark-blue {
@@ -231,6 +240,13 @@
 .custom-desc-text {
     width: 100% !important;
     text-align: center !important;
+}
+
+.custom-header-text {
+    font-size: large !important;
+    width: 100% !important;
+    text-align: center !important;
+    max-width: 400px !important;
 }
 
 .custom-padding-20 {
