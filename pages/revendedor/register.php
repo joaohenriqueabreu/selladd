@@ -4,7 +4,7 @@
         <strong>Quero montar meu negócio e começar a obter renda extra</strong>
 
             <div class="custom-mobile-padding-20">
-                <a href="/novo-embaixador"
+                <a href="/novo-revendedor"
                    class="btn-u rounded-5x btn-u-custom-green custom-color-dark-blue custom-bg-white btn-u-lg"
                    type="button">
                     <strong>Cadastrar agora!</strong>

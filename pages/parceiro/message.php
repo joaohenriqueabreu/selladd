@@ -13,7 +13,7 @@
                 Sem investimento em um exército de vendas, sem ter que aumentar seu escritorio, <br>aluguel, mais
                 contas, sem ter que cuidar de tudo sozinho! <br><br>
 
-                Tenha centenas de embaixadores dos seus produtos a sua disposição <br><br>
+                Tenha centenas de revendedores dos seus produtos a sua disposição <br><br>
 
                 E pague somente pelo que eles venderem! <br><br>
 

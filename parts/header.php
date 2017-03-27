@@ -10,11 +10,11 @@
 
         </div>
         <div flex layout="row" layout-align="end center" hide-xs hide-sm show-gt-sm>
-<!--            <a href="/embaixador" layout-align="center center"-->
+<!--            <a href="/revendedor" layout-align="center center"-->
 <!--               class="btn-u rounded-5x custom-border-green custom-hover-bg-dark-blue custom-hover-color-white btn-u-lg"-->
 <!--               type="button">-->
 
-                    <a href="/embaixador" layout-align="center center"
+                    <a href="/revendedor" layout-align="center center"
                        class="custom-header-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-hover-color-white custom-hover-bg-dark-blue">
                         <strong>Quero montar meu negócio</strong>
                     </a>
@@ -30,7 +30,7 @@
 <!--            </a>-->
             <a href="/parceiro" layout-align="center center"
                class="custom-header-text custom-color-green custom-border-green rounded-5x custom-padding-20 custom-hover-color-white custom-hover-bg-green">
-                <strong>Quero aumentar as vendas</strong>
+                <strong>Quero ser fornecedor</strong>
             </a>
 
         </div>

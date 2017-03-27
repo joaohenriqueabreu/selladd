@@ -12,7 +12,6 @@
     <?php include_once('parts/meta.php') ?>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="../assets/img/logo/logo3.png">
     <link rel="shortcut icon" href="logo-mini.png">
 
     <?php include_once('parts/styles.php') ?>
@@ -32,11 +31,12 @@
     <!--    <div class="" style="margin-top: 100px;">-->
     <div class="" style="">
 
-        <?php include_once('parts/main.php') ?>
-
-        <?php include_once('parts/seller.php') ?>
-
-        <?php include_once('parts/supplier.php') ?>
+        <?php include_once('pages/revendedor/main.php') ?>
+        <?php include_once('pages/revendedor/message.php') ?>
+        <?php include_once('pages/revendedor/howitworks.php') ?>
+        <?php include_once('pages/revendedor/register.php') ?>
+        <?php include_once('pages/revendedor/franchising.php') ?>
+        <?php include_once('pages/revendedor/register2.php') ?>
 
     </div>
 

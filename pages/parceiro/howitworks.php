@@ -51,7 +51,7 @@
 
             <div flex="50" class="" layout-align="center center" layout="row">
                 <h4 class="custom-desc-text custom-color-green custom-border-green rounded-5x custom-padding-20 custom-color-white custom-hover-bg-green custom-hover-color-white">
-                    <strong>Vendedores espalhados por todo o Brasil escolhem produtos para montar suas lojas virtuais. Chamamos eles de embaixadores do seu produto</strong></h4>
+                    <strong>Vendedores espalhados por todo o Brasil escolhem produtos para montar suas lojas virtuais. Chamamos eles de revendedores do seu produto</strong></h4>
             </div>
 
             <div flex="30" class="" layout-align="center center" layout="row">&nbsp;</div>
@@ -64,7 +64,7 @@
 
             <div flex="50" class="" layout-align="center center" layout="row">
                 <h4 class="custom-desc-text custom-color-green custom-border-green rounded-5x custom-padding-20 custom-color-white custom-hover-bg-green custom-hover-color-white">
-                    <strong>O embaixador vende seu produto!</strong></h4>
+                    <strong>O revendedor vende seu produto!</strong></h4>
             </div>
 
             <div flex="20" layout="row" layout-align="end center">
@@ -98,7 +98,7 @@
 
             <div flex="50" class="" layout-align="center center" layout="row">
                 <h4 class="custom-desc-text custom-color-green custom-border-green rounded-5x custom-padding-20 custom-color-white custom-hover-bg-green custom-hover-color-white">
-                    <strong>Separe, embale e despache o produto para o cliente do seu embaixador</strong></h4>
+                    <strong>Separe, embale e despache o produto para o cliente do seu revendedor</strong></h4>
             </div>
 
             <div flex="20" layout="row" layout-align="end center">

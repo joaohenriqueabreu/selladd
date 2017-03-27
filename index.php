@@ -33,11 +33,11 @@
     $path_info = parse_path();
 
 //    switch ($path_info['call_parts'][0]) {
-//        case 'embaixador':
+//        case 'revendedor':
 //            if(array_key_exists(1, $path_info['call_parts']))
-//                include_once('forms/embaixador.php');
+//                include_once('forms/revendedor.php');
 //            else
-//                include_once('pages/embaixador.php');
+//                include_once('pages/revendedor.php');
 //            break;
 //
 //        case 'parceiro':
@@ -53,16 +53,16 @@
 //    }
 
     switch ($path_info['call_parts'][0]) {
-        case 'embaixador':
-            include_once('pages/embaixador.php');
+        case 'revendedor':
+            include_once('pages/revendedor.php');
             break;
 
         case 'parceiro':
             include_once('pages/parceiro.php');
             break;
 
-        case 'novo-embaixador':
-            include_once('forms/embaixador.php');
+        case 'novo-revendedor':
+            include_once('forms/revendedor.php');
             break;
 
         case 'novo-parceiro':
@@ -70,7 +70,7 @@
             break;
 
         default:
-            include_once('pages/master.php');
+            include_once('pages/landing.php');
             break;
     }
 ?>

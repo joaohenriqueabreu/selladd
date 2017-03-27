@@ -341,3 +341,37 @@
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft;
 }
+
+.custom-palavra-chave-blue{
+    border-width: 1px !important;
+    border-color: var(--brand-blue) !important;
+    border: solid !important;
+}
+
+.custom-palavra-chave-white{
+    border-width: 1px !important;
+    border-color: white !important;
+    border: solid !important;
+}
+
+.custom-palavra-chave-green{
+    border-width: 1px !important;
+    border-color: var(--brand-green) !important;
+    border: solid !important;
+}
+
+.custom-palavra-chave-white:hover{
+    background: white !important;
+    color: var(--brand-blue) !important;
+    border-width: 1px !important;
+    border-color: white !important;
+    border: solid !important;
+}
+
+.custom-palavra-chave-green:hover{
+    background: var(--brand-green) !important;
+    color: white !important;
+    border-width: 1px !important;
+    border-color: var(--brand-green) !important;
+    border: solid !important;
+}

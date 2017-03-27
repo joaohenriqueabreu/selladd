@@ -35,7 +35,7 @@
         </div>
 
         <div class="custom-mobile-padding-20">
-            <a href="#embaixador"
+            <a href="#revendedor"
                class="btn-u rounded-5x btn-u-custom-green custom-color-gray custom-hover-bg-dark-blue custom-bg-dark-blue custom-hover-color-gray btn-u-lg"
                type="button">
                 <strong>Eu quero!</strong>
