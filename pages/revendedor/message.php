@@ -1,4 +1,4 @@
-<section id="o-que-e">
+<section id="o-que-e-2">
     <div class="custom-bg-dark-blue custom-super-section" layout="column" layout-align="center center">
         <h3 class="custom-color-white" align="center">
             <strong>Na VITRINET você monta sua loja online e <span
@@ -9,7 +9,7 @@
 
                 Não somos mais uma empresa de e-commerce. Aqui a loja <span class="custom-palavra-chave-white">&nbsp;já vem com produtos&nbsp;</span>! <br>
                 Você <span class="custom-palavra-chave-white">&nbsp;escolhe&nbsp;</span> aqueles que mais te agradam em nosso catálogo. <br><br>
-                Aí é só começar a <span class="custom-palavra-chave-white">&nbsp;divulgar&nbsp;</span>, <span class="custom-palavra-chave-white">&nbsp;vender&nbsp;</span> e começar a <span class="custom-palavra-chave-white">&nbsp;receber&nbsp;</span> comissões. <br><br>
+                Aí é só <span class="custom-palavra-chave-white">&nbsp;divulgar&nbsp;</span>, <span class="custom-palavra-chave-white">&nbsp;vender&nbsp;</span> e começar a <span class="custom-palavra-chave-white">&nbsp;receber&nbsp;</span> comissões. <br><br>
 
                 Deixe o resto conosco
 

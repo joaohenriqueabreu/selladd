@@ -8,12 +8,12 @@
 
 
 
-            <strong>Na Vitrinet seus produtos serão ofertados para potenciais clientes em todo o país através de uma rede de vendedores virtuais independentes
+            <strong>Na Vitrinet seus produtos serão ofertados para potenciais clientes em todo o país através de uma <span class="custom-palavra-chave-white-green">&nbsp;rede&nbsp;</span> de vendedores virtuais independentes
                 <br><br>
-                Sem investimento em um exército de vendas, sem ter que aumentar seu escritorio, <br>aluguel, mais
-                contas, sem ter que cuidar de tudo sozinho! <br><br>
 
-                Tenha centenas de revendedores dos seus produtos a sua disposição <br><br>
+                <span class="custom-palavra-chave-white-green">&nbsp;Sem contratar nenhum vendedor, sem investimentos adicionais, sem ter que cuidar de tudo sozinho!&nbsp;</span> <br><br>
+
+<!--                Tenha centenas de revendedores dos seus produtos a sua disposição <br><br>-->
 
                 E pague somente pelo que eles venderem! <br><br>
 

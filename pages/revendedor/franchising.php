@@ -7,6 +7,7 @@
         </div>
 
         <hr>
+
         <div class="custom-bg-ice custom-padding-20">
             <div layout="column">
                 <h4>Em 2017 <span class="custom-palavra-chave-blue">&nbsp;investimento inicial&nbsp;</span> médio para abrir uma Microfranquia
@@ -70,15 +71,15 @@
             </div>
         </div>
 
-        <hr>
+<!--        <hr>-->
 
-        <div class="custom-bg-ice custom-padding-20">
-            <div layout="column">
-                <h4>Nas empresas tradicionais você tem que cumprir uma série de <span class="custom-palavra-chave-blue">&nbsp;regras&nbsp;</span>,
-                    <span class="custom-palavra-chave-blue">&nbsp;horário&nbsp;</span>,
-                    <span class="custom-palavra-chave-blue">&nbsp;hierarquia&nbsp;</span>, aguentar <span class="custom-palavra-chave-blue">&nbsp;trânsito&nbsp;</span>
-                    e seu <span class="custom-palavra-chave-blue">&nbsp;chefe&nbsp;</span>!</h4>
-            </div>
+<!--        <div class="custom-bg-ice custom-padding-20">-->
+<!--            <div layout="column">-->
+<!--                <h4>Nas empresas tradicionais você tem que cumprir uma série de <span class="custom-palavra-chave-blue">&nbsp;regras&nbsp;</span>,-->
+<!--                    <span class="custom-palavra-chave-blue">&nbsp;horário&nbsp;</span>,-->
+<!--                    <span class="custom-palavra-chave-blue">&nbsp;hierarquia&nbsp;</span>, aguentar <span class="custom-palavra-chave-blue">&nbsp;trânsito&nbsp;</span>-->
+<!--                    e seu <span class="custom-palavra-chave-blue">&nbsp;chefe&nbsp;</span>!</h4>-->
+<!--            </div>-->
 
 <!--            <div layout="row">-->
 <!--                <div flex="30"></div>-->
@@ -94,19 +95,19 @@
 
 <!--            <br><br>-->
 
-            <div layout="column">
-                <h4>Na VITRINET seu trabalho é <span class="custom-brand">flexível</span><br><br>
-                    Trabalhe onde e quando quiser! </h4>
+<!--            <div layout="column">-->
+<!--                <h4>Na VITRINET seu trabalho é <span class="custom-brand">flexível</span><br><br>-->
+<!--                    Trabalhe onde e quando quiser! </h4>-->
                 <!--            <br><br>-->
-            </div>
-        </div>
+<!--            </div>-->
+<!--        </div>-->
 
-        <hr>
+<!--        <hr>-->
 
-        <div class="custom-bg-ice custom-padding-20">
-            <div layout="column">
-                <h4>Trabalhando com vendas diretas, você também possui a possibilidade de </h4>
-            </div>
+<!--        <div class="custom-bg-ice custom-padding-20">-->
+<!--            <div layout="column">-->
+<!--                <h4>Trabalhando com vendas diretas, você  </h4>-->
+<!--            </div>-->
 
 <!--            <div layout="row">-->
 <!--                <div flex="30"></div>-->
@@ -122,35 +123,35 @@
 <!---->
 <!--            <br><br>-->
 
-            <div layout="column">
-                <h4>Aqui na VITRINET disponibilizamos <span class="custom-brand">diversos tipos de produtos</span><br><br>
-                    Para você escolher!
-                </h4>
+<!--            <div layout="column">-->
+<!--                <h4>Aqui na VITRINET disponibilizamos <span class="custom-brand">diversos tipos de produtos</span><br><br>-->
+<!--                    Para você escolher!-->
+<!--                </h4>-->
                 <!--            <br><br>-->
-            </div>
-        </div>
+<!--            </div>-->
+<!--        </div>-->
 
         <hr>
-
-
 
 <!--        <br><br>-->
 
-<!--        <div layout="row">-->
-<!--            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue custom-padding-20">-->
-<!--                <h4 class="custom-color-white"><strong>-->
-<!--                        Uber-->
-<!--                    </strong>-->
-<!--                </h4>-->
-<!---->
-<!--                <div layout="column" layout-align="start start">-->
+        <div layout="row">
+            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue custom-padding-20">
+                <h4 class="custom-color-white"><strong>
+                        Uber
+                    </strong>
+                </h4>
+
+                <div layout="column" layout-align="start start">
 <!--                    <p class="custom-color-white"><i class="fa fa-check"></i> &nbsp;Grande volume de corridas </p>-->
-<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Exige carro próprio</p>-->
+                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Exige carro próprio</p>
 <!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Riscos de acidentes e assaltos</p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!---->
+                </div>
+            </div>
+
+            &nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <!--            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue-1 custom-padding-20">-->
 <!--                <h4 class="custom-color-white"><strong>-->
 <!--                        Abrir uma loja-->
@@ -165,47 +166,55 @@
 <!---->
 <!--            </div>-->
 <!---->
-<!--            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue-2 custom-padding-20">-->
-<!--                <h4 class="custom-color-white"><strong>-->
-<!--                        Fazer revenda-->
-<!--                    </strong>-->
-<!--                </h4>-->
-<!---->
-<!--                <div layout="column" layout-align="start start">-->
+<!--            &nbsp;&nbsp;&nbsp;&nbsp;-->
+
+            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue custom-padding-20">
+                <h4 class="custom-color-white"><strong>
+                        Revenda tradicional
+                    </strong>
+                </h4>
+
+                <div layout="column" layout-align="start start">
 <!--                    <p class="custom-color-white"><i class="fa fa-check"></i> &nbsp;Baixo investimento </p>-->
-<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Nicho exclusivo </p>-->
+                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Nicho exclusivo </p>
 <!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Prospectar fornecedores </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue-3 custom-padding-20">-->
-<!--                <h4 class="custom-color-white"><strong>-->
-<!--                        Vendas diretas-->
-<!--                    </strong>-->
-<!--                </h4>-->
-<!---->
-<!--                <div layout="column" layout-align="start start">-->
+                </div>
+            </div>
+
+            &nbsp;&nbsp;&nbsp;&nbsp;
+
+            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue custom-padding-20">
+                <h4 class="custom-color-white"><strong>
+                        Vendas diretas
+                    </strong>
+                </h4>
+
+                <div layout="column" layout-align="start start">
 <!--                    <p class="custom-color-white"><i class="fa fa-check"></i> &nbsp;Baixo investimento </p>-->
 <!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Baixa variedade </p>-->
-<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Responsabilidade da entrega </p>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue-4 custom-padding-20">-->
-<!--                <h4 class="custom-color-white"><strong>-->
-<!--                        Afiliados-->
-<!--                    </strong>-->
-<!--                </h4>-->
-<!---->
-<!--                <div layout="column" layout-align="start start">-->
-<!--                    <p class="custom-color-white"><i class="fa fa-check"></i> &nbsp;Baixo investimento </p>-->
-<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Exige conhecimentos</p>-->
-<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Depende muito da visibilidade-->
-<!--                    </p>-->
-<!--                </div>-->
-<!--            </div>-->
+                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Responsabilidade da entrega </p>
+                </div>
+            </div>
 
-<!--        </div>-->
+            &nbsp;&nbsp;&nbsp;&nbsp;
+
+            <div layout="column" layout-align="start center" flex class="custom-bg-dark-blue custom-padding-20">
+                <h4 class="custom-color-white"><strong>
+                        Afiliados
+                    </strong>
+                </h4>
+
+                <div layout="column" layout-align="start start">
+<!--                    <p class="custom-color-white"><i class="fa fa-check"></i> &nbsp;Baixo investimento </p>-->
+                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Exige conhecimentos</p>
+<!--                    <p class="custom-color-white"><i class="fa fa-close"></i> &nbsp;Depende muito da visibilidade-->
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <hr>
 
 <!--        <br><br>-->
 

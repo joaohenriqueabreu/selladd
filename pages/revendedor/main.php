@@ -1,5 +1,6 @@
 <section id="main">
-    <div class="custom-super-section custom-background-4" layout="row" layout-align="center center" style="padding-top: 150px !important">
+    <div class="custom-super-section custom-background-4" layout="row" layout-align="center center"
+         style="padding-top: 150px !important">
         <div layout="column" layout-align="center center" class="custom-padding-20" hide-xs hide-sm show-gt-sm>
             <div layout="row">
 
@@ -19,6 +20,15 @@
             </div>
         </div>
     </div>
+
+    <section id="o-que-e">
+        <div class="custom-super-section custom-bg-white" layout="row" layout-align="center center">
+            <h2 align="center">
+                <strong>Diversas lojas querem aumentar suas vendas. <br>
+                    Qual tal vender para elas? <br>
+                    E ganhar comissões de um jeito rápido, fácil e 100% online?</strong></h2>
+        </div>
+    </section>
 
     <div class="custom-background-3" layout="column" layout-align="center center" show-xs show-sm hide-gt-sm>
         <div layout="row">
@@ -41,7 +51,6 @@
         </div>
 
     </div>
-
 
 
 </section>

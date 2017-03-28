@@ -147,6 +147,13 @@
     font-family: "Franklin Gothic Heavy";
 }
 
+.custom-brand-green {
+    font-weight: bolder;
+    font-size: xx-large;
+    color: var(--brand-green) !important;
+    font-family: "Franklin Gothic Heavy";
+}
+
 .custom-brand:hover {
     /*font-weight: bolder;*/
     /*font-size: xx-large;*/
@@ -263,6 +270,14 @@
     text-decoration: none !important;
 }
 
+.custom-hover-color-green {
+
+}
+
+.custom-hover-color-green:hover {
+    color: var(--brand-green) !important;
+}
+
 .custom-border-dark-blue {
     border-color: var(--brand-blue) !important;
     border-width: 1px !important;
@@ -354,6 +369,12 @@
     border: solid !important;
 }
 
+.custom-palavra-chave-white-green{
+    border-width: 1px !important;
+    border-color: white !important;
+    border: solid !important;
+}
+
 .custom-palavra-chave-green{
     border-width: 1px !important;
     border-color: var(--brand-green) !important;
@@ -368,10 +389,26 @@
     border: solid !important;
 }
 
+.custom-palavra-chave-white-green:hover{
+    background: white !important;
+    color: var(--brand-green) !important;
+    border-width: 1px !important;
+    border-color: white !important;
+    border: solid !important;
+}
+
 .custom-palavra-chave-green:hover{
     background: var(--brand-green) !important;
     color: white !important;
     border-width: 1px !important;
     border-color: var(--brand-green) !important;
+    border: solid !important;
+}
+
+.custom-palavra-chave-blue:hover{
+    background: var(--brand-blue) !important;
+    color: white !important;
+    border-width: 1px !important;
+    border-color: var(--brand-blue) !important;
     border: solid !important;
 }
