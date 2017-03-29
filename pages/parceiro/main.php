@@ -5,7 +5,7 @@
 
                 <h2 align="center" class="custom-heading">
                     <strong class="custom-color-dark-blue">
-                        Aumente suas vendas com a VITRINET!
+                        Aumente suas vendas com a <span class="custom-brand">Vende aí!</span>
                     </strong>
                 </h2>
             </div>

@@ -1,19 +1,8 @@
 <section id="franchising">
     <div layout="column" class="custom-bg-white custom-super-section">
-        <h1 class="custom-color-green"><strong>De onde vem o VITRINET?</strong></h1><br>
+        <h1 class="custom-color-green"><strong>De onde vem a <span class="custom-brand-green-small">Vende aí!</span>?</strong></h1><br>
 
         <div layout="column">
-            <!--            <h1>Veja uma comparativo com outras opções do mercado</h1>-->
-            <!--            <h4 align="justify">Nossa solução está baseada no conceito de dropshipping que nada mais é que uma técnica-->
-            <!--                de gestão da cadeia logística na-->
-            <!--                qual o revendedor não mantém os bens em estoque, apresentando os produtos a seus clientes através de-->
-            <!--                catálogo ou página web,-->
-            <!--                assim que completa o pedido de compra, solicita e paga o fornecedor, este fará todo o processo de-->
-            <!--                embalagem e envio diretamente ao cliente.-->
-            <!--                Como em todos os negócios de varejo, os varejistas fazem os seus lucros sobre a diferença entre o preço-->
-            <!--                de atacado e varejo.</h4> <br><br>-->
-
-
             <h4 class="custom-color-green" align="justify">Nossa solução está baseada no conceito de dropshipping que é que uma técnica de gestão
                 da cadeia logística na qual o revendedor não mantém os bens em estoque. Para vender os itens o
                 revendedor apresenta os produtos a seus clientes através de catálogos ou páginas web e, assim que
@@ -23,7 +12,7 @@
         </div>
 
         <div layout="column">
-            <h1 class="custom-color-green" align="justify">Quem já faz dropshipping?</h1><br>
+            <h1 class="custom-color-green" align="justify"><strong>Quem já faz dropshipping?</strong></h1><br>
             <h4 class="custom-color-green" align="justify">No Brasil temos exemplos do programa <a href="https://www.magazinevoce.com.br/">Magaize
                     Você</a>
                 da Magazine Luiza e o <a href="http://www.polishop.vc/store/polishop">Polishop com vc</a> da Polishop.
@@ -35,7 +24,7 @@
             <h4 class="custom-color-green" align="justify">Sabemos que o mercado
                 internacional é um termômetro das tendências para o
                 varejo e este conceito está chegando aqui no Brasil. Mas é necessário uma
-                grande infraestrutura de tecnologia e cadeia de revenda para funcionar. A VITRINET cuida dela para você.
+                grande infraestrutura de tecnologia e cadeia de revenda para funcionar. A <span class="custom-brand-green-small">Vende aí!</span> cuida dela para você.
                 Só precisa receber os pedidos e enviar os produtos.</h4>
 
         </div>
@@ -75,11 +64,13 @@
                 <div flex="10"></div>
             </div>
 
-            <br>
+            <br><br>
 
             <div layout="column">
-                <h4 class="custom-color-green">Na VITRINET seu investimento no time de vendas é de <span class="custom-brand-green">R$ 0,00</span></h4> <br>
-                <h4 class="custom-color-green">E mais, você poderá disponibilizar videos e materiais dos seus produtos e marca online gratuitamente para que eles virem verdadeiras máquinas de vendas</h4>
+                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span>&nbsp;seu investimento no time de vendas é de
+                    <span class="custom-brand-green">R$ 0,00</span>.</h4><br>
+                <h4 class="custom-color-green">E mais, você poderá disponibilizar vídeos e materiais dos seus produtos e marca online gratuitamente
+                    para que seus revendedores virem verdadeiras máquinas de vendas</h4>
             </div>
         </div>
 
@@ -119,9 +110,10 @@
             <br>
 
             <div layout="column">
-                <h4 class="custom-color-green">Na VITRINET seu investimento em marketing digital ou infraestrutura é de <span class="custom-brand-green">R$ 0,00</span></h4> <br>
+                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span> seu investimento em marketing digital ou infraestrutura é de
+                    <span class="custom-brand-green">R$ 0,00</span>.</h4> <br>
                 <h4 class="custom-color-green">
-                    Quem sabe até nossos revendedores não estarão fazendo públicações nas suas redes sociais por você?
+                    Quem sabe até nossos revendedores não estarão fazendo públicações patrocinadas nas suas redes sociais por você?
                 </h4>
             </div>
         </div>

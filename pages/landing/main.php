@@ -5,7 +5,7 @@
 
                 <h2 align="center" class="custom-heading">
                     <strong class="custom-color-dark-blue">
-                        Olá, somos a VITRINET <br>
+                        Olá, somos a <span class="custom-brand">Vende aí</span> <br>
                         A maneira mais rápida e fácil <br>
                         de se abrir um negócio virtual. <br>
                         E de graça!

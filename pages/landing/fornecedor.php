@@ -14,12 +14,12 @@
              layout-sm="column" layout-align-xs="center center" layout-align-sm="center center">
             <div flex="70" layout="column" layout-align="center center">
                 <h2 class="custom-color-green custom-padding-20"><strong>
-                        Está com <span class="custom-palavra-chave-green">&nbsp;dificuldades para aumentar&nbsp;</span> as vendasdo seu produto? <br><br>
+                        Está com <span class="custom-palavra-chave-green">dificuldades para aumentar</span> as vendas do seu produto? <br><br>
 <!--                        Já pensou em ter pessoas espalhadas por todo o Brasil oferecendo seus produtos a sua rede de relacionamento? <br><br>-->
-                        Já pensou em ter <span class="custom-palavra-chave-green">&nbsp;pessoas vendendo&nbsp;</span> seus produtos em todo o Brasil? <br><br>
+                        Já pensou em ter <span class="custom-palavra-chave-green">pessoas vendendo</span> seus produtos em todo o Brasil? <br><br>
 <!--                        Você gostaria de expandir os seus canais de venda? <br><br>-->
 
-                        Já imaginou tudo isso <span class="custom-palavra-chave-green">&nbsp;sem aumentar seus custos&nbsp;</span> ?
+                        Já imaginou tudo isso <span class="custom-palavra-chave-green">sem aumentar seus custos</span> ?
                         Gastando somente com vendas concluídas? <br><br>
 
 <!--                        Nossa solução irá te ajudar.-->
@@ -32,7 +32,8 @@
                    class="btn-u custom-bg-green rounded-5x btn-u-custom-green custom-hover-bg-green custom-hover-color-white custom-padding-20 btn-u-lg"
                    type="button">
 <!--                    <strong>Quero aumentar as vendas</strong>-->
-                    <strong>Quero ser fornecedor</strong>
+<!--                    <strong>Quero ser fornecedor</strong>-->
+                    <strong>Conheça a <span class="custom-brand-white-small">Vende ai!</span></strong>
                 </a>
 
             </div>

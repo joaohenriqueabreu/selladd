@@ -2,16 +2,11 @@
     <div class="custom-bg-green custom-super-section" layout="column" layout-align="center center">
         <h3 class="custom-color-white" align="center">
 
-            <!--        Na VITRINET diversas pessoas passaram a vender seus produtos para seus contatos sem encargos trabalhistas,-->
-            <!--        estoques extras ou gastos com marketing. Você só terá custos associados às vendas que forem de fato concretizadas-->
-
-
-
-
-            <strong>Na Vitrinet seus produtos serão ofertados para potenciais clientes em todo o país através de uma <span class="custom-palavra-chave-white-green">&nbsp;rede&nbsp;</span> de vendedores virtuais independentes
+            <strong>Na <span class="custom-brand-white-small">Vende aí!</span>&nbsp; seus produtos serão ofertados para potenciais clientes em todo o país <br>
+                através de uma <span class="custom-palavra-chave-white-green">rede</span> de vendedores virtuais independentes
                 <br><br>
 
-                <span class="custom-palavra-chave-white-green">&nbsp;Sem contratar nenhum vendedor, sem investimentos adicionais, sem ter que cuidar de tudo sozinho!&nbsp;</span> <br><br>
+                <span class="custom-palavra-chave-white-green">Sem contratar nenhum vendedor, sem investimentos adicionais, sem ter que cuidar de tudo sozinho!</span> <br><br>
 
 <!--                Tenha centenas de revendedores dos seus produtos a sua disposição <br><br>-->
 

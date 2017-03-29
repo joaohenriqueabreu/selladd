@@ -4,7 +4,7 @@
         <div flex layout="row">
             <a class="custom-brand" href="/" layout="row" layout-align="center center">
 <!--                <img class="logo" src="assets/img/logo/logo-mini.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>-->
-                <img class="logo" src="assets/img/logo/logo3.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>
+                <img class="logo" src="assets/img/logo/logo3.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;Vende aí</span>
 <!--                <img class="logo" src="assets/img/icons/cube.png" alt="Logo"> <span class="custom-brand">&nbsp;&nbsp;&nbsp;VITRINET</span>-->
             </a>
 

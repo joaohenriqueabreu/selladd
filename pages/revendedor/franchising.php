@@ -2,7 +2,7 @@
     <div layout="column" class="custom-bg-white custom-super-section">
 
         <div layout="column">
-            <h1><strong class="custom-brand">VITRINET</strong> x Outras opções de renda extra</h1>
+            <h1><strong class="custom-brand">Vende aí!</strong>&nbsp; x Outras opções de renda extra</h1>
 
         </div>
 
@@ -10,7 +10,7 @@
 
         <div class="custom-bg-ice custom-padding-20">
             <div layout="column">
-                <h4>Em 2017 <span class="custom-palavra-chave-blue">&nbsp;investimento inicial&nbsp;</span> médio para abrir uma Microfranquia
+                <h4>Em 2017 <span class="custom-palavra-chave-blue">investimento inicial</span> médio para abrir uma Microfranquia
                     é de </h4> <br><br>
             </div>
 
@@ -35,7 +35,7 @@
             <br><br>
 
             <div layout="column">
-                <h4>Na VITRINET seu investimento inicial é de <span class="custom-brand">R$ 0,00</span></h4>
+                <h4>Na <span class="custom-brand-small">Vende aí!</span>&nbsp; seu investimento inicial é de <span class="custom-brand">R$ 0,00</span></h4>
                 <!--            <br><br>-->
             </div>
         </div>
@@ -44,7 +44,7 @@
 
         <div class="custom-bg-ice custom-padding-20">
             <div layout="column">
-                <h4>Segundo dados do Banco Mundial o <span class="custom-palavra-chave-blue">&nbsp;tempo médio&nbsp;</span> para abrir uma empresa no Brasil é de</h4> <br><br>
+                <h4>Segundo dados do Banco Mundial o <span class="custom-palavra-chave-blue">tempo médio</span> para abrir uma empresa no Brasil é de</h4> <br><br>
             </div>
 
             <div layout="row">
@@ -66,7 +66,7 @@
             <br><br>
 
             <div layout="column">
-                <h4>Na VITRINET você leva <span class="custom-brand">5 minutos</span><br><br> para montar sua loja e começar seu negócio virtual</h4>
+                <h4>Na <span class="custom-brand-small">Vende aí!</span>&nbsp; você leva <span class="custom-brand">5 minuTos</span> &nbsp; para montar sua loja e começar seu negócio virtual</h4>
                 <!--            <br><br>-->
             </div>
         </div>
@@ -96,7 +96,7 @@
 <!--            <br><br>-->
 
 <!--            <div layout="column">-->
-<!--                <h4>Na VITRINET seu trabalho é <span class="custom-brand">flexível</span><br><br>-->
+<!--                <h4>Na VENDE AÍ! seu trabalho é <span class="custom-brand">flexível</span><br><br>-->
 <!--                    Trabalhe onde e quando quiser! </h4>-->
                 <!--            <br><br>-->
 <!--            </div>-->
@@ -124,7 +124,7 @@
 <!--            <br><br>-->
 
 <!--            <div layout="column">-->
-<!--                <h4>Aqui na VITRINET disponibilizamos <span class="custom-brand">diversos tipos de produtos</span><br><br>-->
+<!--                <h4>Aqui na VENDE AÍ! disponibilizamos <span class="custom-brand">diversos tipos de produtos</span><br><br>-->
 <!--                    Para você escolher!-->
 <!--                </h4>-->
                 <!--            <br><br>-->

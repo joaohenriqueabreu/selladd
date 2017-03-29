@@ -6,7 +6,7 @@
 
                 <h2 align="center" class="custom-heading">
                     <strong class="custom-color-dark-blue">
-                        Obtenha renda extra com a VITRINET!
+                        Obtenha renda extra com a <span class="custom-brand">Vende aí!</span>
                     </strong>
                 </h2>
             </div>

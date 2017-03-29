@@ -6,7 +6,7 @@
 <!--[if !IE]><!-->
 <html lang="en" ng-app="selladd"> <!--<![endif]-->
 <head>
-    <title>Vitrinet</title>
+    <title>Vende aí</title>
 
     <!-- Meta -->
     <?php include_once('parts/meta.php') ?>

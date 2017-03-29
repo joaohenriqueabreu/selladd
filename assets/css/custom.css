@@ -141,17 +141,57 @@
 }
 
 .custom-brand {
-    font-weight: bolder;
-    font-size: xx-large;
+    font-weight: bolder !important;
+    font-style: italic !important;
+    font-size: xx-large !important;
     color: var(--brand-blue) !important;
-    font-family: "Franklin Gothic Heavy";
+    font-family: "Saladfont" !important;
+    /*font-family: "Chewy" !important;*/
+}
+
+.custom-brand-small {
+    font-weight: bolder !important;
+    font-style: italic !important;
+    /*font-size: xx-large !important;*/
+    color: var(--brand-blue) !important;
+    /*font-family: "Franklin Gothic Heavy";*/
+    font-family: "Saladfont" !important;
 }
 
 .custom-brand-green {
     font-weight: bolder;
+    font-style: italic !important;
     font-size: xx-large;
     color: var(--brand-green) !important;
-    font-family: "Franklin Gothic Heavy";
+    /*font-family: "Franklin Gothic Heavy";*/
+    font-family: "Saladfont" !important;
+}
+
+.custom-brand-green-small {
+    font-weight: bolder;
+    font-style: italic !important;
+    /*font-size: xx-large;*/
+    color: var(--brand-green) !important;
+    /*font-family: "Franklin Gothic Heavy";*/
+    font-family: "Saladfont" !important;
+}
+
+.custom-brand-white {
+    font-weight: bolder;
+    font-style: italic !important;
+    font-size: xx-large;
+    color: white !important;
+    /*font-family: "Franklin Gothic Heavy";*/
+    font-family: "Saladfont" !important;
+}
+
+.custom-brand-white-small {
+    font-weight: bolder;
+    font-style: italic !important;
+    /*font-size: xx-large;*/
+    color: white !important;
+    /*font-family: "Franklin Gothic Heavy";*/
+    font-family: "Saladfont" !important;
 }
 
 .custom-brand:hover {
@@ -358,57 +398,66 @@
 }
 
 .custom-palavra-chave-blue{
-    border-width: 1px !important;
-    border-color: var(--brand-blue) !important;
-    border: solid !important;
+    /*border-width: 1px !important;*/
+    /*border-color: var(--brand-blue) !important;*/
+    /*border: solid !important;*/
+    text-decoration: underline !important;
 }
 
 .custom-palavra-chave-white{
-    border-width: 1px !important;
-    border-color: white !important;
-    border: solid !important;
+    /*border-width: 1px !important;*/
+    /*border-color: white !important;*/
+    /*border: solid !important;*/
+    text-decoration: underline !important;
 }
 
 .custom-palavra-chave-white-green{
-    border-width: 1px !important;
-    border-color: white !important;
-    border: solid !important;
+    /*border-width: 1px !important;*/
+    /*border-color: white !important;*/
+    /*border: solid !important;*/
+    text-decoration: underline !important;
 }
 
 .custom-palavra-chave-green{
-    border-width: 1px !important;
-    border-color: var(--brand-green) !important;
-    border: solid !important;
+    /*border-width: 1px !important;*/
+    /*border-color: var(--brand-green) !important;*/
+    /*border: solid !important;*/
+    text-decoration: underline !important;
 }
 
 .custom-palavra-chave-white:hover{
-    background: white !important;
-    color: var(--brand-blue) !important;
-    border-width: 1px !important;
-    border-color: white !important;
-    border: solid !important;
+    /*background: white !important;*/
+    /*color: var(--brand-blue) !important;*/
+    /*border-width: 1px !important;*/
+    /*border-color: white !important;*/
+    /*border: solid !important;*/
 }
 
 .custom-palavra-chave-white-green:hover{
-    background: white !important;
-    color: var(--brand-green) !important;
-    border-width: 1px !important;
-    border-color: white !important;
-    border: solid !important;
+    /*background: white !important;*/
+    /*color: var(--brand-green) !important;*/
+    /*border-width: 1px !important;*/
+    /*border-color: white !important;*/
+    /*border: solid !important;*/
 }
 
 .custom-palavra-chave-green:hover{
-    background: var(--brand-green) !important;
-    color: white !important;
-    border-width: 1px !important;
-    border-color: var(--brand-green) !important;
-    border: solid !important;
+    /*background: var(--brand-green) !important;*/
+    /*color: white !important;*/
+    /*border-width: 1px !important;*/
+    /*border-color: var(--brand-green) !important;*/
+    /*border: solid !important;*/
 }
 
 .custom-palavra-chave-blue:hover{
-    background: var(--brand-blue) !important;
-    color: white !important;
-    border-width: 1px !important;
-    border-color: var(--brand-blue) !important;
-    border: solid !important;
+    /*background: var(--brand-blue) !important;*/
+    /*color: white !important;*/
+    /*border-width: 1px !important;*/
+    /*border-color: var(--brand-blue) !important;*/
+    /*border: solid !important;*/
+}
+
+@font-face {
+    font-family: 'Saladfont'; /*a name to be used later*/
+    src: url('../fonts/font12.ttf'); /*URL to font*/
 }

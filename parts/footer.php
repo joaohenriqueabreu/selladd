@@ -3,7 +3,7 @@
         <div class="custom-padding-20" layout-gt-sm="row" layout-xs="column" layout-sm="column">
             <div layout="row" flex>
                 <p class="custom-color-dark-blue"><strong>
-                        2017 &copy; Vitrinet. Todos os direitos reservados.
+                        2016 - <?php echo date("Y") ?> <span class="custom-brand-small">Vende aí!</span> &copy; Todos os direitos reservados.
                     </strong>
                 </p>
             </div>
