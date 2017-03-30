@@ -365,8 +365,16 @@
     padding: 20px !important;
 }
 
+.custom-padding-20-mobile {
+    padding: 20px !important;
+}
+
 .custom-padding-40 {
     padding: 40px !important;
+}
+
+.custom-padding-40-mobile {
+    padding: 40px 40px 40px 40px !important;
 }
 
 .custom-mobile-padding-20 {
@@ -457,7 +465,34 @@
     /*border: solid !important;*/
 }
 
+.custom-right {
+    text-align: right !important;
+}
+
+.custom-left {
+    text-align: left !important;
+}
+
 @font-face {
     font-family: 'Saladfont'; /*a name to be used later*/
     src: url('../fonts/font12.ttf'); /*URL to font*/
+}
+
+/* Ajustes para mobile */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="custom-super-section"] {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+
+    [class*="custom-padding-20"] {
+        padding: 0px !important;
+    }
+
+    [class*="custom-padding-40"] {
+        padding: 0px !important;
+    }
 }
