@@ -39,9 +39,10 @@
             </h2>
 
             <a href="<?php echo $route ?>"
-               class="btn-u custom-bg-green rounded-5x btn-u-custom-green custom-hover-bg-green custom-hover-color-white custom-padding-20 btn-u-lg"
+               class="btn-u rounded-5x btn-u-custom-green custom-bg-green
+                    custom-color-white custom-padding-20 custom-hover-bg-white custom-hover-color-green btn-u-lg custom-header-text"
                type="button">
-                <strong>Conheça a <span class="custom-brand-white-small">Vende ai!</span></strong>
+                <strong>Conheça a <span class="custom-brand-white-small">Vende aí!</span></strong>
             </a>
 
         </div>
