@@ -1,6 +1,6 @@
 <section id="o-que-e">
     <div class="custom-bg-dark-blue custom-super-section" layout="column" layout-align="center center">
-        <h3 class="custom-color-white" align="justify">
+        <h3 class="custom-color-white" align="center">
 
             <strong>Na <span class="custom-brand-white-small">Vende aí!</span>&nbsp;&nbsp;você recebe
                 <span class="custom-palavra-chave-white">comissões</span> de um jeito rápido, fácil e 100%

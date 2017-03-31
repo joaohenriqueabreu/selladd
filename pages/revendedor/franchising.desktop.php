@@ -9,7 +9,7 @@
     <div class="custom-bg-ice custom-padding-20">
         <div layout="column">
             <h4>Em 2017 <span class="custom-palavra-chave-blue">investimento inicial</span> médio para abrir uma Microfranquia
-                é de </h4> <br><br>
+                é de: </h4> <br><br>
         </div>
 
         <div layout="row">
@@ -44,7 +44,7 @@
 
     <div class="custom-bg-ice custom-padding-20">
         <div layout="column">
-            <h4>Segundo dados do Banco Mundial o <span class="custom-palavra-chave-blue">tempo médio</span> para abrir uma empresa no Brasil é de</h4> <br><br>
+            <h4>Segundo dados do Banco Mundial o <span class="custom-palavra-chave-blue">tempo médio</span> para abrir uma empresa no Brasil é de:</h4> <br><br>
         </div>
 
         <div layout="row">

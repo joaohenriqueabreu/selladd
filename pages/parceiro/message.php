@@ -1,6 +1,6 @@
 <section id="o-que-e">
     <div class="custom-bg-green custom-super-section" layout="column" layout-align="center center">
-        <h3 class="custom-color-white" align="justify">
+        <h3 class="custom-color-white" align="center">
 
             <strong>Na <span class="custom-brand-white-small">Vende aí!</span>&nbsp; seus produtos serão ofertados para
                 potenciais clientes em todo o país <br>
