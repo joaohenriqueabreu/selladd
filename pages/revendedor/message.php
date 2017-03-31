@@ -1,18 +1,22 @@
-<section id="o-que-e-2">
+<section id="o-que-e">
     <div class="custom-bg-dark-blue custom-super-section" layout="column" layout-align="center center">
-        <h3 class="custom-color-white" align="center">
-            <strong>Na <span class="custom-brand-white-small">Vende aí!</span>&nbsp;&nbsp;você monta sua
-                <span class="custom-palavra-chave-white">loja online</span> e
-                <span class="custom-palavra-chave-white">vende</span> produtos de
+        <h3 class="custom-color-white" align="justify">
+
+            <strong>Na <span class="custom-brand-white-small">Vende aí!</span>&nbsp;&nbsp;você recebe
+                <span class="custom-palavra-chave-white">comissões</span> de um jeito rápido, fácil e 100%
+                <span class="custom-palavra-chave-white">online</span><br><br>
+
+                Você monta sua loja virtual e <span class="custom-palavra-chave-white">vende</span> produtos de
                 <span class="custom-palavra-chave-white">diversos fornecedores</span>. <br><br>
 
-                Sem investimento inicial, sem estoque, sem reposição, sem logística e sem dor de cabeça. <br><br>
+                Sem investimento inicial, sem estoque, sem reposição, <br> sem logística e sem dor de cabeça. <br><br>
 
-                Não somos mais uma empresa de e-commerce. Aqui você <span class="custom-palavra-chave-white">não precisa ter os produtos</span>! <br>
-                Você vai vender para nossos <span class="custom-palavra-chave-white">fornecedores parceiros</span>, escolhendo os produtos que mais te agradam. <br><br>
-                Depois é só <span class="custom-palavra-chave-white">divulgar</span>,
+                Não somos mais uma empresa de e-commerce. <br> Aqui você <span class="custom-palavra-chave-white">não precisa ter os produtos</span>! <br><br>
+                Você vai vender para nossos <span class="custom-palavra-chave-white">fornecedores parceiros</span>, <br>
+                escolhendo os produtos que mais te agradam. <br><br>
+                A partir daí é só <span class="custom-palavra-chave-white">divulgar</span>,
                     <span class="custom-palavra-chave-white">vender</span> e começar a
-                    <span class="custom-palavra-chave-white">receber</span> comissões. <br><br>
+                    <span class="custom-palavra-chave-white">receber</span> as comissões. <br><br>
 
                 Deixe o resto conosco
 

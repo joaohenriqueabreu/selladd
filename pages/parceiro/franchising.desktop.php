@@ -1,6 +1,6 @@
 <section id="franchising">
     <div layout="column" class="custom-bg-white custom-super-section">
-        <h1 class="custom-color-green"><strong>De onde vem a <span class="custom-brand-green-small">Vende aí!</span>?</strong></h1><br>
+        <h1 class="custom-color-green"><strong>De onde surgiu a <span class="custom-brand-green-small">Vende aí!</span>?</strong></h1><br>
 
         <div layout="column">
             <h4 class="custom-color-green" align="justify">Nossa solução está baseada no conceito de dropshipping que é que uma técnica de gestão
@@ -39,26 +39,26 @@
 
         <div class="custom-bg-grice custom-padding-20">
             <div layout="column">
-                <h4 class="custom-color-green">Sabemos que um bom time de vendas faz a diferença. Mas imagine o investimento para levar seus produtos para todo o Brasil? </h4> <br><br>
+                <h4 class="custom-color-green">Sabemos que um bom time de vendas faz a diferença. Mas imagine o custo para levar seus produtos para todo o Brasil? </h4> <br><br>
             </div>
 
             <div layout="row">
                 <div flex="10"></div>
                 <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green" align="center"><strong>Encargos</strong>
+                     class="btn-u rounded-5x btn-u-custom-green custom-bg-green btn-u-lg">
+                    <h2 class="custom-color-white" align="center"><strong>Encargos</strong>
                     </h2>
                 </div>
                 <div flex="10"></div>
                 <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green"><strong>Treinamentos</strong>
+                     class="btn-u rounded-5x btn-u-custom-green custom-bg-green btn-u-lg">
+                    <h2 class="custom-color-white" align="center"><strong>Treinamentos</strong>
                     </h2>
                 </div>
                 <div flex="10"></div>
                 <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green" align="center"><strong>Transporte</strong>
+                     class="btn-u rounded-5x btn-u-custom-green custom-bg-green btn-u-lg">
+                    <h2 class="custom-color-white" align="center"><strong>Transporte</strong>
                     </h2>
                 </div>
                 <div flex="10"></div>
@@ -67,7 +67,7 @@
             <br><br>
 
             <div layout="column">
-                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span>&nbsp;seu investimento no time de vendas é de
+                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span>&nbsp; seu custo com o time de vendas é de
                     <span class="custom-brand-green">R$ 0,00</span>.</h4><br>
                 <h4 class="custom-color-green">E mais, você poderá disponibilizar vídeos e materiais dos seus produtos e marca online gratuitamente
                     para que seus revendedores virem verdadeiras máquinas de vendas</h4>
@@ -78,42 +78,27 @@
 
         <div class="custom-bg-grice custom-padding-20">
             <div layout="column">
+                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span> conectamos seus produtos a
+                    <span class="custom-brand-green-small">revendedores virtuais</span>. Mas quem são eles? Robôs? Matrix? Não, não, pode ficar tranquilo!
+                    Os revendedores virtuais são pessoas que estão buscando uma renda extra e se cadastram na Vende aí!
+                    para vender os <span class="custom-brand-green-small">seus produtos</span> e de outros fornecedores.
+                    Ele receberá uma loja virtual e poderá vender para seus contatos.
+
+                    A Vende aí! cuida de todo esse canal para você e para eles.<br><br>
+
+                    Sabe por que escolhemos fazer desta forma? <span class="custom-brand-green-small">O poder das redes.</span>
+                    Existe uma coisa que mesmo com o passar do tempo, ainda é a ferramenta mais poderosa de venda, ela se chama
+                    <span class="custom-brand-green-small">indicação</span>. Uma indicação ou recomendação de um produto
+                    por um amigo ou conhecido possui uma taxa de conversão entre 50% a 80%. Outro detalhe importante, o alcance
+                    das redes é calculado pelo quadrado do tamanho da rede, ou seja, seu produto presente em 1.000 lojas de
+                    revendedores virtuais, significa um alcance orgânico de 1.000.000 (um milhão de pessoas!).
+
+                </h4>
+
                 <h4 class="custom-color-green">
-                    A presença na internet atualmente é fundamental. Pesquisas apontam a cada dia o aumento de usuários na internet e quanto mais ela
-                    faz parte do consumo das famílias. Podemos citar o marketing digital e a criação de um e-commerce próprio para aumentar a visibilidade
-                    e o alcance das vendas. Porém essas ferramentas exigem algumas coisas como:
-                </h4> <br><br>
-            </div>
-
-            <div layout="row">
-                <div flex="10"></div>
-                <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green" align="center"><strong>Capacitação</strong>
-                    </h2>
-                </div>
-                <div flex="10"></div>
-                <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green"><strong>Infraestrutura</strong>
-                    </h2>
-                </div>
-                <div flex="10"></div>
-                <div flex="20"
-                     class="btn-u rounded-5x btn-u-custom-green custom-hover-bg-white custom-bg-green custom-hover-color-green btn-u-lg">
-                    <h2 class="custom-color-white custom-hover-color-green" align="center"><strong>Profissionais</strong>
-                    </h2>
-                </div>
-                <div flex="10"></div>
-            </div>
-
-            <br>
-
-            <div layout="column">
-                <h4 class="custom-color-green">Na <span class="custom-brand-green-small">Vende aí!</span> seu investimento em marketing digital ou infraestrutura é de
-                    <span class="custom-brand-green">R$ 0,00</span>.</h4> <br>
-                <h4 class="custom-color-green">
-                    Quem sabe até nossos revendedores não estarão fazendo públicações patrocinadas nas suas redes sociais por você?
+                    Acreditamos na real trasformação que as redes pessoais trazem para os mercados e como as pessoas
+                    podem se tornar agentes das marcas. Quem sabe até seus revendedores virtuais não estarão
+                    fazendo públicações patrocinadas nas suas redes sociais por você?
                 </h4>
             </div>
         </div>

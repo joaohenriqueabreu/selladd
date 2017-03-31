@@ -18,9 +18,15 @@
                 <img src="../../assets/img/icons/forms.png" class="custom-desc-image">
                 <div hide-xs hide-sm>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
             </div>
+
             <div flex-gt-sm="50" flex-xs="70" flex-sm="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
-                    <strong>Realize seu cadastro</strong></h4>
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                    <strong>Realize seu cadastro</strong>
+                </h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-right">
+                    <strong>Realize seu cadastro</strong>
+                </h4>
             </div>
 
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
@@ -34,8 +40,12 @@
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white  custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
                     <strong>Personalize sua loja virtual</strong></h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-left">
+                    <strong>Personalize <br> sua loja virtual</strong>
+                </h4>
             </div>
 
             <div flex="20" layout="row" layout-align="end center">
@@ -55,9 +65,11 @@
             </div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
-                    <strong hide-xs hide-sm>Escolha os produtos que quer vender</strong>
-                    <strong hide-gt-sm>Escolha os produtos</strong></h4>
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                    <strong>Escolha os produtos que quer vender</strong>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-right">
+                    <strong>Escolha os <br>produtos</strong></h4>
             </div>
 
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
@@ -71,8 +83,11 @@
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
                     <strong>Sua loja virtual está pronta!</strong></h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-left">
+                    <strong>Sua loja virtual <br>está pronta!</strong></h4>
             </div>
 
             <div flex="20" layout="row" layout-align="end center">
@@ -93,8 +108,11 @@
             </div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
                     <strong>Divulgue em sua rede</strong></h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-right">
+                    <strong>Divulgue em <br> sua rede</strong></h4>
             </div>
 
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
@@ -109,8 +127,11 @@
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
                     <strong>Não preocupe com logística</strong></h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-left">
+                    <strong>Não preocupe <br> com logística</strong></h4>
             </div>
 
             <div flex="20" layout="row" layout-align="end center">
@@ -131,10 +152,16 @@
             </div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
                     <strong hide-xs hide-sm>Feche a venda em alguns cliques na própria plataforma</strong>
                     <strong hide-gt-sm>Feche a venda na plataforma</strong>
                 </h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-right">
+                    <strong hide-xs hide-sm>Feche a venda em alguns cliques na própria plataforma</strong>
+                    <strong hide-gt-sm>Feche a venda na plataforma</strong>
+                </h4>
+
             </div>
 
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
@@ -149,7 +176,10 @@
             <div flex="30" class="" layout-align="center center" layout="row" hide-xs hide-sm>&nbsp;</div>
 
             <div flex-gt-sm="50" flex-sm="70" flex-xs="70" class="" layout-align="center center" layout="row">
-                <h4 class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                <h4 hide-xs hide-sm class="custom-desc-text custom-color-dark-blue custom-border-dark-blue rounded-5x custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue">
+                    <strong>Receba sua comissão</strong></h4>
+
+                <h4 hide-gt-sm class="custom-desc-text custom-color-dark-blue custom-padding-20 custom-color-white custom-hover-color-white custom-hover-bg-dark-blue custom-left">
                     <strong>Receba sua comissão</strong></h4>
             </div>
 

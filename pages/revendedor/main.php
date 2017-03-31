@@ -22,13 +22,13 @@
     </div>
 </section>
 
-<section id="o-que-e">
-    <div class="custom-super-section custom-bg-white" layout="row" layout-align="center center">
-        <h2 align="center">
-            <strong>Diversas lojas querem aumentar suas vendas. <br><br>
-                Qual tal vender para elas? <br><br>
-                E ganhar comissões de um jeito rápido, fácil e 100% online?</strong></h2>
-    </div>
-</section>
+<!--<section id="o-que-e">-->
+<!--    <div class="custom-super-section custom-bg-white" layout="row" layout-align="center center">-->
+<!--        <h2 align="center">-->
+<!--            <strong>Diversas lojas querem aumentar suas vendas. <br><br>-->
+<!--                Qual tal vender para elas? <br><br>-->
+<!--                E ganhar comissões de um jeito rápido, fácil e 100% online?</strong></h2>-->
+<!--    </div>-->
+<!--</section>-->
 
 
